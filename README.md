@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarivijayan&label=Profile%20views&color=0e75b6&style=flat" alt="sabarivijayan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabarivijayan" alt="sabarivijayan" /></a> </p>
-
 - 🔭 I’m currently working on [MORENTAL](https://github.com/sabarivijayan/Morental)
 
 - 🌱 I’m currently learning **GraphQL, PostgreSQL, Next.js**
