@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/564x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg](https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif))](https://sabarivijayan.io)
+[![MasterHead][(https://i.pinimg.com/originals/47/20/51/472051c6d88bd2837525520597251d67.gif)](https://sabarivijayan.io)
 <h1 align="center">Hi 👋, I'm Sabari Vijayan</h1>
 <h3 align="center">A passionate fullstack developer from Kerala, India.</h3>
 <img align = "right" alt = "coding" width ="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
