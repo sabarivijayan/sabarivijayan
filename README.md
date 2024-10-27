@@ -1,4 +1,8 @@
-[![MasterHead](https://i.pinimg.com/564x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg)](https://sabarivijayan.io)
+<div align="center">
+  <a href="https://sabarivijayan.io">
+    <img src="https://i.pinimg.com/564x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" alt="MasterHead" width="920" height="auto">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Sabari Vijayan</h1>
 <h3 align="center">A passionate fullstack developer from Kerala, India.</h3>
 <img align = "right" alt = "coding" width ="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
