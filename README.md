@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://sabarivijayan.io">
-    <img src="https://i.pinimg.com/originals/95/93/94/959394b4e9f8ec68e15f986f0aaeb941.gif" alt="MasterHead" >
+    <img src="./assets/959394b4e9f8ec68e15f986f0aaeb941.gif" alt="MasterHead" >
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Sabari Vijayan</h1>
@@ -39,5 +39,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=sabarivijayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sabarivijayan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarivijayan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![sabarivijayan.io](./assets/vecteezy_grey-and-black-layer-waves-background_49072387)
+<div align="center">
+  <a href="https://sabarivijayan.io">
+    <img src="./assets/vecteezy_grey-and-black-layer-waves-background_49072387.gif" width="1000" height="150"alt="MasterHead" >
+  </a>
+</div>
