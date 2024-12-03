@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarivijayan&label=Profile%20views&color=0e75b6&style=flat" alt="sabarivijayan" /> </p>
 
-- 🔭 I’m currently working on [MORENTAL](https://github.com/sabarivijayan/Morental)
+- 🔭 I’m currently working on [Connect - Flutter Chat App](https://github.com/sabarivijayan/chat_app_flutter)
 
-- 🌱 I’m currently learning **GraphQL, PostgreSQL, Next.js**
+- 🌱 I’m currently learning **Python, Flutter, Django**
 
 - 👨‍💻 Get to know more about me at [https://portfolio-8tbd.onrender.com/](https://portfolio-8tbd.onrender.com/)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/sabarivijayan/resume](https://github.com/sabarivijayan/resume)
 
-- ⚡ Fun fact **I draw and paint during my free time to get my mind off of stuff.**
+- ⚡ Fun fact **I draw and paint during my free time to get my mind off of stuff. Also go for a fun match of badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
